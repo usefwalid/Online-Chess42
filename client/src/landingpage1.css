@@ -1,0 +1,55 @@
+h1  {
+    color: #982B1C;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Courier New', Courier, monospace;
+    font-weight: bold; 
+    letter-spacing: 3px;
+}
+
+.CreateRoom{
+    background-color: #DAD4B5;
+    border: 2px solid #982B1C;
+    padding: 8px;
+    border-radius: 10px;
+    position: relative;
+    left: 45%;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+.JoinRoom{
+    position: relative;
+    left: 45%;
+    margin-top: 5%;
+}
+
+.JoinRoom input{
+    padding: 8px;
+    border-radius: 10px;
+    border: 2px solid #982B1C;
+    font-size: 15px;
+    margin-right: 2px;
+    
+}
+
+.JoinRoom button{
+    padding: 8px;
+    border-radius: 10px;
+    border: 2px solid #982B1C;
+    font-size: 13px;
+    background-color: #DAD4B5;
+}
+
+.popup{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #DAD4B5;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #982B1C;
+    width: 30%;
+    text-align: center;
+}

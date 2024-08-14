@@ -1,0 +1,16 @@
+.chess {
+    width: 600px;
+    height: 600px;
+    background-image: url('./chessboard.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-x: center;
+    position: relative;
+    left: 30%;
+    margin-bottom: 30px;
+}
+.roomcontrol {
+    position: relative;
+    left: 30%;
+    color: #982B1C;
+}
